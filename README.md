@@ -1,4 +1,4 @@
-# Lesson Title
+# Managing Threads
 
 ## Learning Goals
 
